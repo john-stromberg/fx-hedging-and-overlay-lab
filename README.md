@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [portfolio-analytics/projects/fx-hedging-and-overlay-lab](https://github.com/john-stromberg/portfolio-analytics/tree/main/projects/fx-hedging-and-overlay-lab).
+> This repository is retained as a historical snapshot.
+
+---
+
 # fx-hedging-and-overlay-lab
 
 Track: **SMA Quantitative Research**
